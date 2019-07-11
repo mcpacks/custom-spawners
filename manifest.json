@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Adds the ability to create your own spawners",
+        "name": "Custom Spawners",
+        "uuid": "bace0d44-b594-4938-9bf2-f4ef36e9bc80",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "Adds the ability to create your own spawners",
+            "type": "data",
+            "uuid": "01ff083c-4814-429b-b516-03777e5c6930",
+            "version": [0, 0, 1]
+        }
+    ]
+}
